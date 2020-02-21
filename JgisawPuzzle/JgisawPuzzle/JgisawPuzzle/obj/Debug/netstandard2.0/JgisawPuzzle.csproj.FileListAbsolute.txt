@@ -1,0 +1,7 @@
+C:\Users\45502\source\repos\jgisawPuzzle\JgisawPuzzle\JgisawPuzzle\JgisawPuzzle\bin\Debug\netstandard2.0\JgisawPuzzle.deps.json
+C:\Users\45502\source\repos\jgisawPuzzle\JgisawPuzzle\JgisawPuzzle\JgisawPuzzle\bin\Debug\netstandard2.0\JgisawPuzzle.dll
+C:\Users\45502\source\repos\jgisawPuzzle\JgisawPuzzle\JgisawPuzzle\JgisawPuzzle\obj\Debug\netstandard2.0\JgisawPuzzle.csprojAssemblyReference.cache
+C:\Users\45502\source\repos\jgisawPuzzle\JgisawPuzzle\JgisawPuzzle\JgisawPuzzle\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\45502\source\repos\jgisawPuzzle\JgisawPuzzle\JgisawPuzzle\JgisawPuzzle\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\45502\source\repos\jgisawPuzzle\JgisawPuzzle\JgisawPuzzle\JgisawPuzzle\obj\Debug\netstandard2.0\JgisawPuzzle.AssemblyInfoInputs.cache
+C:\Users\45502\source\repos\jgisawPuzzle\JgisawPuzzle\JgisawPuzzle\JgisawPuzzle\obj\Debug\netstandard2.0\JgisawPuzzle.AssemblyInfo.cs
